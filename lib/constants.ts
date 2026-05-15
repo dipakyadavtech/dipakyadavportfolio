@@ -7,7 +7,7 @@ export const SITE = {
   pitch:
     'Senior platform engineer with 6+ years owning Kafka, Kubernetes and the LGTM stack across multi-tenant enterprise SaaS — turning distributed chaos into observable, cost-efficient infrastructure.',
   location: 'India',
-  url: 'https://dipakyadav.dev',
+  url: 'https://thinkinbits.in',
   email: 'dipak.yadav.tech@gmail.com',
   phone: '+91-9665228177',
 } as const;

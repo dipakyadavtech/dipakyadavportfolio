@@ -1,7 +1,7 @@
 # dipakyadavportfolio
 
 Personal portfolio for **Dipak S. Yadav** — Senior Software Engineer, platform &
-observability engineering. Live site: <https://dipakyadav.dev>
+observability engineering. Live site: <https://thinkinbits.in>
 
 Built as a single-page Next.js App Router site with a 3D parallax hero, animated
 data-flow visualization, a working `⌘K` command palette, scroll-driven section

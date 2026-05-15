@@ -36,7 +36,6 @@ jobs:
 
       - name: Build (static export)
         env:
-          GITHUB_PAGES: 'true'
           NEXT_TELEMETRY_DISABLED: '1'
         run: npm run build
 
